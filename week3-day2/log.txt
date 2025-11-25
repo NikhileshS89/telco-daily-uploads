@@ -1,0 +1,9 @@
+INFO:root:Program started
+INFO:root:Program started
+WARNING:root:This is a warning
+ERROR:root:An error has occurred
+CRITICAL:root:Critical issue encountered
+INFO:root:Program started
+WARNING:root:This is a warning
+ERROR:root:An error has occurred
+CRITICAL:root:Critical issue encountered
